@@ -1,7 +1,7 @@
 ---
 title: Placeholder
 layout: home
-parent: index
+parent: xedit index
 nav_order: 5
 ---
 

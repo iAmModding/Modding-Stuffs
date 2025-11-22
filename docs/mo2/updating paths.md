@@ -1,7 +1,7 @@
 ---
 title: Updating Paths
 layout: home
-parent: index
+parent: mo2 index
 nav_order: 3
 ---
 
