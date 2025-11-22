@@ -1,7 +1,18 @@
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
+
 nav_enabled: true
+
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
+
 heading_anchors: true
+
 plugins:
 - jekyll-remote-theme
+
 title: "iAmModding Guide's and Stuff"
