@@ -1,3 +1,9 @@
+---
+title: Archives Index
+layout: home
+nav_order: 6
+---
+
 ## Swapping to SOS Full
 Swapping to SOS Full to Licentia Black involves a little work, needing a basic understanding of using MO2.
 

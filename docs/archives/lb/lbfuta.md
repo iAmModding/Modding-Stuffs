@@ -1,3 +1,9 @@
+---
+title: Archives Index
+layout: home
+nav_order: 5
+---
+
 ## So, Futa
 Adding futa content to Licentia Black involves a little work, needing a basic understanding of using MO2.
 
