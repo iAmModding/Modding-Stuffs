@@ -1,3 +1,5 @@
-One day, I might actually put something here!
+# Hello there
+Hello hello, this is where I'll be putting some general modding stuff that isn't necessarily modlist specific.
 
-[Stuff that's specific to Licentia Black is here.](lb/lbhome.md)
+# Contents
+1. [MO2 Guides](mo2/index.md)
