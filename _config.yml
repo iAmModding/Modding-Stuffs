@@ -1,4 +1,7 @@
 remote_theme: just-the-docs/just-the-docs
+color_scheme: dark
+nav_enabled: true
+heading_anchors: true
 plugins:
 - jekyll-remote-theme
-title: "iAmMe's Modding Stuff"
+title: "iAmModding Guide's and Stuff"
