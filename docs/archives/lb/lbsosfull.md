@@ -1,5 +1,5 @@
 ---
-title: Archives Index
+title: Licentia Black SOS Full Swap
 layout: home
 nav_order: 6
 ---

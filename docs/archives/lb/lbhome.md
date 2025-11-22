@@ -1,5 +1,5 @@
 ---
-title: Archives Index
+title: Licentia Black Guides Index
 layout: home
 nav_order: 4
 ---
