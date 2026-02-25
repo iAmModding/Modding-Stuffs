@@ -37,3 +37,4 @@ callouts:
 
 exclude:
   - README.md
+  - vendor/
