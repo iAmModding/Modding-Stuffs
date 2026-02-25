@@ -1,6 +1,10 @@
 remote_theme: just-the-docs/just-the-docs
-color_scheme: dark
 
+# Required for project sites
+url: "https://iammodding.github.io"
+baseurl: "/Modding-Stuffs"
+
+color_scheme: dark
 nav_enabled: true
 
 defaults:
