@@ -16,3 +16,24 @@ plugins:
 - jekyll-remote-theme
 
 title: "iAmModding Guide's and Stuff"
+
+callouts:
+  warning:
+    title: Warning!
+    color: red
+  important:
+    title: Important!
+    color: red
+  caution:
+    title: Caution!
+    color: yellow
+  tip:
+    title: Tip!
+    color: green
+  mod:
+    color: blue
+  thanks:
+    color: blue
+
+exclude:
+  - README.md

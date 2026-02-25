@@ -1,8 +1,9 @@
 ---
+layout: default
 title: Placeholder
-layout: home
-parent: xedit index
 nav_order: 1
+parent: xEdit Guides Index
+nav_order: 3
 ---
 
 # Placeholder
