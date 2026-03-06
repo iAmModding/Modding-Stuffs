@@ -2,7 +2,7 @@
 layout: default
 title: Placeholder
 nav_order: 1
-parent: xEdit Guides Index
+parent: xEdit Guides
 nav_order: 3
 ---
 

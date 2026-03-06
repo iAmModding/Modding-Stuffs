@@ -1,6 +1,6 @@
 ---
 layout: default
-title: xEdit Guides Index
+title: xEdit Guides
 nav_order: 3
 has_children: true
 has_toc: false

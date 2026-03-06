@@ -5,9 +5,15 @@ nav_order: 4
 has_toc: true
 ---
 
+# Contents
+{: .no_toc }
+
+1. TOC
+{:toc}
+
+
 # Wasteland of Depravity Modding Guides
 
-## What is this?
 Here you will find **unofficial** guides for modding your install of WoD.  
 
 {: .important}

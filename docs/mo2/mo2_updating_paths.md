@@ -1,8 +1,8 @@
 ---
 title: Updating Paths
 layout: home
-parent: MO2 Guides Index
-nav_order: 1
+parent: MO2 Guides
+nav_order: 2
 ---
 
 # Placeholder
