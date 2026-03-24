@@ -1,8 +1,9 @@
 ---
 layout: default
 title: WoD Modding Guides
+has_toc: false
+has_children: true
 nav_order: 4
-has_toc: true
 ---
 
 # Contents
@@ -17,6 +18,9 @@ has_toc: true
 Here you will find **unofficial** guides for modding your install of WoD.  
 
 {: .important}
->**Every one of these guides will result in a modified install, that means, you added or removed mods from your install of WoD.**
+>**Following these guides will result in a modified install, since you are going to add or remov mods from your install of WoD.**
 >
 >That means, if you ask for support in Discord, you will have to do so in #wod-modified, you are **NOT** eligible for regular support channels such as #wod-support.
+
+# Available Guides
+- [Companion Ivy](wod_ivy.html)
