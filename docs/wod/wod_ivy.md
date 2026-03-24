@@ -95,13 +95,13 @@ First of all, don't forget to **enable all the mods you just installed**, otherw
 >If you are playing on another profile, shame on you, but you'll just have to adapt accordingly, your plugin positions will vary slightly.
 
 
-## ESM position
+### ESM position
 You're gonna put the .esm file just below the other .esm files of the "Companions" section.  
 In my case, that is below Servitron, like shown below:  
 ![Image](img/ivy/ivy_sorting_left_esm.png)
 
 
-## ESP positions
+### ESP positions
 Again, just like the .esm, we are going to put the .esp files just after the other .esps of the "Companions" section.  
 **It's important once again, that you put the files in this exact order:**  
 ![Images](img/ivy/ivy_sorting_left_esp.png)
