@@ -25,23 +25,49 @@ So have this warning right away:
 Ivy is very vulgar, very depraved and very sexually offensive.  
 Some of the vulgarity can be disabled, but if that doesn't sound like your cup of tea, this mod isn't for you.
 
+# Making sure you have the space
+
+{: .important}
+>**DO NOT SKIP THIS STEP OR YOU MIGHT BREAK YOUR SAVE!**
+>
+>If you start your game with an unsave amount of plugins, you WILL encounter problems and you will have to revert to an earlier save or start a new one.
+
+As modlists grow and shrink over their lifetime, you need to keep an eye on your plugin count before you start modding your list.  
+At the time of writing this guide, you will need **7 FULL ESP SLOTS FOR IVY** including all optional mods.
+
+The safe limit for esm+esp in Fallout 4 is 253. Some sources might say different things, for example that 254 is still okay. We are not your boss, you do whatever you want, but for this guide we are going to work with a safe limit of 253 full plugins.  
+This means this guide is assuming you are starting with a **MAXIMUM OF 246** esm+esp.
+
+If you want to check how many active plugins you have, open your WoD MO2 and hover over the plugin count on top of the right pane in MO2 and it will tell you:  
+![IMAGE](img/ivy/ivy_mo2_plugins.png)  
+The underlined number ("ESMs+ESPs") is the relevant one.  
+
+If you are over the limit mentioned above, you need to remove some mods first to make space to add Ivy.  
+How to do that is not in the scope of this guide, as that's its own in-depth topic.  
+Please refer to the guide by Rilie pinned in #wod-modified in our discord as a starting point if you are not experienced with modding.
+
 
 # Downloading required mods
+
 First, you are going to download the required mods for integrating Ivy into WoD.  
 
+
 ## Google Drive (Main Files)
+
 First, let's download Ivy and her addons.  
 Head over to Ivy's [Loverslab page](https://www.loverslab.com/files/file/11260-meet-companion-ivy/) and grab the files that are not crossed out in the screenshot below:  
 ![Image](img/ivy/ivy_gdrive_files.png)
 
 
 ## Loverslab (Real Sex Mod)
+
 Now, let's download the [AML_Ivy6_RealSex_Mod_V_0_9.7z](https://www.loverslab.com/files/file/13527-companion-ivy-realsex-mod/) file from Loverslab.  
 This makes it so that having sex with her doesn't fade to black, but actually triggers a scene in NAF.  
 ![Image](img/ivy/ivy_aml.png)
 
 
 ## NexusMods (XDI Patch)
+
 Download the XDI patch for Ivy from [NexusMods](https://www.nexusmods.com/fallout4/mods/57868).
 
 {: .tip}
@@ -50,21 +76,26 @@ Download the XDI patch for Ivy from [NexusMods](https://www.nexusmods.com/fallou
 >
 >Our recommendation is to just install it, it has no downsides if you do so.
 
+
 ## Hand Cannon Fix
+
 By default, Ivy's gun is a bit defective in WoD.  
 So you can either give her another gun that's in the list, or you can grab the [Fix for her original gun](assets/Ivy%20Gun%20Fixed.7z) by clicking the link.
 
 
 ## Verify you got everything
+
 When you're down downloading, your Download directory should look something like this:  
 ![Image](img/ivy/ivy_all_downloads.png)
 
 
 # Installing and sorting all the mods
+
 Now that we have downloaded everything, it's time to install and sort (overwriting / load order) the mods.
 
 
 ## Installing
+
 Just install all the mods in MO2.  
 The order in which you are going to install the mods does not matter now, as we will sort them later.
 
@@ -73,6 +104,7 @@ When installing the XDI patch, make sure you select the "English Language" optio
 
 
 ## Overwriting / Left Pane
+
 When you are done installing, all your new mods will be listed in the scary red separator in MO2.  
 Don't worry, that's normal as MO2 always puts newly installed mods at the bottom of the list.
 
@@ -85,6 +117,7 @@ Sorting the mods here is simple, you're just gonna drag all the mods at the bott
 
 
 ## Load Order / Right Pane
+
 Now, the right pane is a bit trickier, for the single reason that Ivy has a master plugin (.esm) as well as normal plugins (.esp / .esl) files.
 
 First of all, don't forget to **enable all the mods you just installed**, otherwise you won't find them in the right pane.
@@ -96,12 +129,14 @@ First of all, don't forget to **enable all the mods you just installed**, otherw
 
 
 ### ESM position
+
 You're gonna put the .esm file just below the other .esm files of the "Companions" section.  
 In my case, that is below Servitron, like shown below:  
 ![Image](img/ivy/ivy_sorting_left_esm.png)
 
 
 ### ESP positions
+
 Again, just like the .esm, we are going to put the .esp files just after the other .esps of the "Companions" section.  
 **It's important once again, that you put the files in this exact order:**  
 ![Images](img/ivy/ivy_sorting_left_esp.png)
@@ -120,17 +155,22 @@ Just add `[NoDelete]` **before** of all the mod names in MO2 like so:
 
 
 # Ivy has no face!
+
 As of now, this is a known bug, and it has two possible solutions.  
 Although both have their caveats, you only need to chose one.
 
+
 ## 1. Change her hairstyle  
+
 Open the console, and click on her, so that the top of the console displays her ID and name.  
 Then press F3 -> Looks -> Show Looks Menu and change her hairstyle. Her head should now be visible.
 
 {: .caution}
 >This only works **AFTER** you have shown her your voucher and left her place.
 
+
 ## 2. Install the Wonderglue patch
+
 Download and install the [Wonderglue patch](https://www.nexusmods.com/fallout4/mods/86384?tab=files) from Nexus.  
 You'll have to scroll down a bit to find it.  
 
